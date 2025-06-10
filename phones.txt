@@ -1,3 +1,4 @@
 GalaxyA35:https://www.19kala.com/samsung-galaxy-a35:https://example.com/images/galaxy-a35.jpg
 GalaxyA34:https://www.19kala.com/samsung-galaxy-a34:https://example.com/images/galaxy-a34.jpg
 GalaxyA25:https://www.19kala.com/samsung-galaxy-a25:https://example.com/images/galaxy-a25.jpg
+GalaxyA56:https://www.19kala.com/samsung-galaxy-a56:https://example.com/images/galaxy-a25.jpg
