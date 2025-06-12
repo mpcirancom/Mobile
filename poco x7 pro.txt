@@ -7,3 +7,12 @@ image: https://via.placeholder.com/150?text=Poco+X7+Pro
 RAM: 8/12 GB
 حافظه داخلی: 256/512 GB
 نمایشگر: 6.67 اینچ AMOLED، 120Hz، 1080x2400
+دوربین‌ها: 50 MP (Wide، f/1.8) + 8 MP (Ultra Wide، f/2.2) + 2 MP (Macro، f/2.4)
+دوربین سلفی: 20 MP (f/2.2)
+باتری: 6000 mAh، شارژ سریع 90W
+سیستم‌عامل: Android 15، HyperOS
+اتصالات: 5G، Wi-Fi، Bluetooth، USB-C
+بدنه: شیشه، پلاستیک، IP68
+وزن: 195 گرم
+ابعاد: 160.5 x 74.4 x 8.3 mm
+رنگ‌ها: مشکی، زرد، سبز
