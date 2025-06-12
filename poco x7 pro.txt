@@ -1,1 +1,12 @@
-poco z7 pro.txt
+{
+  "name": "Poco X7 Pro 5G",
+  "category": "میان‌رده",
+  "brand": "Xiaomi",
+  "image": "https://via.placeholder.com/150?text=Poco+X7+Pro",
+  "specs": {
+    "پردازنده": "MediaTek Dimensity 8400 Ultra",
+    "هسته‌ها": "8 هسته",
+    "RAM": "8/12 GB",
+    ...
+  }
+}
